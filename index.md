@@ -22,7 +22,7 @@ Edus nodded to his customer. “Yes, now Mr. Hawdon, can I see Rufus, it will he
 </p>
 
 <a href="https://gavin-casey.github.io/caseygshortstory.github.io/">Previous Page</a>
-<a href="">Next Page</a>
+<a href="https://gavin-casey.github.io/caseyg3pages3/">Next Page</a>
 </body>
 
 </html>
