@@ -21,6 +21,7 @@ Edus nodded to his customer. “Yes, now Mr. Hawdon, can I see Rufus, it will he
 “Oh sure! He’s up in the guest bedroom, haven’t really gone in there myself except to feed him. It’s the third room on the left after you go up the stairs.” Mr. Hawdon pointed to the stairwell.
 </p>
 
+<a href="https://gavin-casey.github.io/caseygshortstory.github.io/">Previous Page</a>
 <a href="">Next Page</a>
 </body>
 
