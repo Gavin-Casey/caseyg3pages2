@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Life in Malcan</title>
+<style>
+  h1 {color:red;}
+</style>
+</head>
+<body>
+<h1>Life in Malcan</h1>
 
-You can use the [editor on GitHub](https://github.com/Gavin-Casey/caseyg3pages2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h3>A short story by Gavin Casey</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://media.wired.co.uk/photos/60c8730fa81eb7f50b44037e/3:2/w_3329,h_2219,c_limit/1521-WIRED-Cat.jpeg" alt="Cat" width="686" height="457">
 
-### Markdown
+<p>There wasn’t much in the paper that Edus found interesting. Another politician had been found turned into a frog, and the Malcan University of Magic had once again denied any connections, claiming it was a rouge wizard from out of town. There were reports of a dragon being spotted in a nearby city, though the university's wards should keep it away from Malcan. The only story in the paper that did intrigue Edus was a possible breakthrough that could potentially cut the time needed to brew an all-cure potion in half. That would be quite helpful to some of his clients.
+After finishing his breakfast, Edus got ready to go to work. He had a busy day ahead of him. One of his clients, a man named Rufus Hawdon, had a cat that had wandered onto the MUM grounds and was now hiccuping fireworks. Another, a woman named Verla Woolahan had knocked over a jar that had belonged to their wizard uncle and had unleashed a poltergeist in their house. A third, an athlete named Lenard McLelland, had bought a bootleg speed potion, and could not stop running. And those were just the appointments he had before noon. Edus grabbed a pre-brewed No-Sleep potion, knowing he was probably going to need it.
+Arriving at Mr. Hawdon’s place of residence, Edus knocked on the door, making note of the various flashes of color that appeared every now and again from a window on the second story. The man who opened the door was of average build for a non-magical human, though he was covered in ash.
+“Oh thank Irdos you are here!” The man exclaimed, making the hand gestures of the God of Blessings. “Rufus has been making the house look like the Day of Freedom ever since he wandered into MUM.”
+Edus nodded to his customer. “Yes, now Mr. Hawdon, can I see Rufus, it will help me figure out what exactly is causing him to act like this, and then prescribe the proper remedy.”
+“Oh sure! He’s up in the guest bedroom, haven’t really gone in there myself except to feed him. It’s the third room on the left after you go up the stairs.” Mr. Hawdon pointed to the stairwell.
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="">Next Page</a>
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gavin-Casey/caseyg3pages2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
