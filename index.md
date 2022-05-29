@@ -17,7 +17,7 @@
 After finishing his breakfast, Edus got ready to go to work. He had a busy day ahead of him. One of his clients, a man named Rufus Hawdon, had a cat that had wandered onto the MUM grounds and was now hiccuping fireworks. Another, a woman named Verla Woolahan had knocked over a jar that had belonged to their wizard uncle and had unleashed a poltergeist in their house. A third, an athlete named Lenard McLelland, had bought a bootleg speed potion, and could not stop running. And those were just the appointments he had before noon. Edus grabbed a pre-brewed No-Sleep potion, knowing he was probably going to need it.
 Arriving at Mr. Hawdon’s place of residence, Edus knocked on the door, making note of the various flashes of color that appeared every now and again from a window on the second story. The man who opened the door was of average build for a non-magical human, though he was covered in ash.
 “Oh thank Irdos you are here!” The man exclaimed, making the hand gestures of the God of Blessings. “Rufus has been making the house look like the Day of Freedom ever since he wandered into MUM.”
-Edus nodded to his customer. “Yes, now Mr. Hawdon, can I see Rufus, it will help me figure out what exactly is causing him to act like this, and then prescribe the proper remedy.”
+Edus nodded to his customer. “Yes, now Mr. Hawdon, can I see Rufus, it will help me figure out what exactly is causing him to act like this, and then prescribe the proper remedy.” 
 “Oh sure! He’s up in the guest bedroom, haven’t really gone in there myself except to feed him. It’s the third room on the left after you go up the stairs.” Mr. Hawdon pointed to the stairwell.
 </p>
 
